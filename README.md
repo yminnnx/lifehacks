@@ -3,15 +3,6 @@
 FraudFree: Protecting You from Financial Fraud
 Welcome to FraudFree! This project aims to combat financial fraud by raising public awareness, providing practical tools and strategies, and empowering the legal community to protect individuals and businesses. Our comprehensive solution includes a user-friendly website and an interactive chatbot designed to help users stay informed and secure.
 
-Table of Contents
-Introduction
-Features
-Installation
-Usage
-Contributing
-License
-Contact
-Introduction
 Financial fraud is a significant challenge in today's digital age. FraudFree is designed to address this challenge by:
 
 Raising awareness about the latest scam tactics.
